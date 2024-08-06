@@ -1,2 +1,2 @@
 # Wallpaper-Web-Design
-Simple and intuitive calculator design with clear layout and responsive styling.
+Modern wallpaper web design showcasing high-quality, visually striking backgrounds. The layout is clean and organized, making it easy to browse various wallpaper options. Responsive design ensures a seamless experience across devices. Intuitive navigation and categorization help users find their desired wallpapers effortlessly. Optimized for both aesthetics and functionality, enhancing user engagement and satisfaction.
